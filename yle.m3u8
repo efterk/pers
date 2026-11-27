@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Finnish",LANGUAGE="fi",DEFAULT=YES,AUTOSELECT=YES,URI="https://yletvworld.akamaized.net/hls/live/622540/yletv1w/yletv_audio1.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1920x1080,FRAME-RATE=50.000,AUDIO="audio"
+https://yletvworld.akamaized.net/hls/live/622540/yletv1w/yletv_video1080p50.m3u8
