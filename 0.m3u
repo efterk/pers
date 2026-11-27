@@ -1,0 +1,126 @@
+#EXTM3U
+#PLAYLIST:Channels
+#EXTINF:-1 tvg-id="ABC-KAAL",ABC-KAAL
+https://amg01942-amg01942c6-stirr-us-10178.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AMC Thrillers",AMC Thrillers
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Animal Planet BG",Animal Planet BG
+http://213.91.179.28:8000/play/a05r
+#EXTINF:-1 tvg-id="Arirang TV",Arirang TV
+https://freem3u.xyz/api/live/play.m3u8?vid=111
+#EXTINF:-1 tvg-id="H1 Sat",H1 Sat
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+#EXTINF:-1 tvg-id="AXN Black RO",AXN Black RO
+http://85.14.32.26:8800/udp/239.100.10.17:5000
+#EXTINF:-1 tvg-id="AXN White BG",AXN White BG
+http://85.14.32.26:8800/udp/239.100.10.18:5000
+#EXTINF:-1 tvg-id="BR Sud",BR Sud
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="BNT1 SD",BNT1 SD
+http://85.11.189.178:8080/BNT1/index.m3u8
+#EXTINF:-1 tvg-id="BNT1 HD",BNT1 HD
+http://185.97.73.187:11000/play/bnt1hd/index.m3u8
+#EXTINF:-1 tvg-id="Nova HD",Nova HD
+http://185.97.73.187:11000/play/novahd/index.m3u8
+#EXTINF:-1 tvg-id="bTV SD",bTV SD
+http://85.11.189.178:8080/bTV/index.m3u8
+#EXTINF:-1 tvg-id="bTV HD",bTV HD
+http://185.97.73.187:11000/play/btvhd/index.m3u8
+#EXTINF:-1 tvg-id="Carol Burnett Show",Carol Burnett Show
+https://vizioaaaa-carol-burnett-vizio-xam92.amagi.tv/playlist/vizioAAAA-carol-burnett-vizio/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network BG",Cartoon Network BG
+http://213.91.179.28:8000/play/a08g
+#EXTINF:-1 tvg-id="Cartoon Network JP",Cartoon Network JP
+http://103.255.250.188:5002/cs25.m3u8?channel=zhongying&gid=cs25&token=guoziyun
+#EXTINF:-1 tvg-id="Cartoon Network TR",Cartoon Network TR
+http://176.65.153.40:6002/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="Cartoonito BG",Cartoonito BG
+http://213.91.179.28:8000/play/a0c7
+#EXTINF:-1 tvg-id="CBS KTVQ",CBS KTVQ
+https://amg01438-amg01438c27-vizio-us-10895.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV-15",CCTV-15
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-id="CH4 UK",CH4 UK
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/channel_4/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="CT1 HD",CT1 HD
+http://88.212.15.50/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CT2 HD",CT2 HD
+http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Disney Channel BG",Disney Channel BG
+http://87.120.179.187:8000/play/a010
+#EXTINF:-1 tvg-id="ETV1",ETV1
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:-1 tvg-id="Filmbox+ Festival",Filmbox+ Festival
+https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
+#EXTINF:-1 tvg-id="Fox KCPQ",Fox KCPQ
+https://amg00488-foxdigital-fox13seattlekcpq-vizious-a31ok.amagi.tv/playlist/amg00488-foxdigital-fox13seattlekcpq-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="TF1",TF1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="France 2",France 2
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="France 3",France 3
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="hr-fernsehen",hr-fernsehen
+https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Klara",Klara
+https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.isml/.m3u8
+#EXTINF:-1 tvg-id="KCTV DPRK",KCTV DPRK
+https://streamer.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="Love Nature 4K",Love Nature 4K
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 tvg-id="LRT Lituanica",LRT Lituanica
+https://stream-live.lrt.lt/lituanica/master.m3u8
+#EXTINF:-1 tvg-id="KVF1",KVF1
+https://w-live-edge2.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC Korea HLAT",MBC Korea HLAT
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Melody",Melody
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="M1 Moldova",M1 Moldova
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+#EXTINF:-1 tvg-id="Mystery Science Theatre 3K",Mystery Science Theatre 3K
+https://vizioaaaa-mst3k-vizio-eclzp.amagi.tv/playlist/vizioAAAA-mst3k-vizio/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC WHEC",NBC WHEC
+https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NRK1",NRK1
+http://185.19.191.171:8090/NRK1/index.m3u8
+#EXTINF:-1 tvg-id="ORF1 HD",ORF1 HD
+https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+#EXTINF:-1 tvg-id="PBS WEDQ",PBS WEDQ
+https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
+#EXTINF:-1 tvg-id="PBS Kids Pacific",PBS Kids Pacific
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+#EXTINF:-1 tvg-id="RAI1",RAI1
+http://team-tv.co:81/rai1/index.m3u8
+#EXTINF:-1 tvg-id="RAI Movie",RAI Movie
+http://team-tv.co:81/raimovie/index.m3u8
+#EXTINF:-1 tvg-id="RIK Sat",RIK Sat
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL Lëtzebuerg",RTL Lëtzebuerg
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTK SAT",RTK SAT
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
+#EXTINF:-1 tvg-id="RTP Mundo",RTP Mundo
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/rtp_internacional/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS1 CH",RTS1 CH
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rts_un/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS Svet",RTS Svet
+https://webtvstream.bhtelecom.ba/rts_svet.m3u8
+#EXTINF:-1 tvg-id="RÚV1",RÚV1
+https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:-1 tvg-id="TCM LatAm",TCM LatAm
+http://181.78.14.26:4000/play/a04d/index.m3u8
+#EXTINF:-1 tvg-id="TRT1",TRT1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TVCG MNE",TVCG MNE
+https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+#EXTINF:-1 tvg-id="TVE La2 Cat",TVE La2 Cat
+https://ztnr.rtve.es/ztnr/3987218.m3u8
+#EXTINF:-1 tvg-id="TVE Int",TVE Int
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_1080.m3u8
+#EXTINF:-1 tvg-id="TVR1 HD",TVR1 HD
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVP Polonia",TVP Polonia
+https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1 tvg-id="YLE TV1",YLE TV1
+https://raw.githubusercontent.com/efterk/pers/main/yle.m3u8
